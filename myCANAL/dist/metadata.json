@@ -6,6 +6,7 @@
     "service": "myCanal",
     "description": { 
         "en" : "Canal+ is a French subscription provider associated to the channel of the same name. It is owned by Vivendi with a hundred percent share."
+        "fr" : "Canal+ est une chaîne de télévision généraliste nationale français. Elle appartient au groupe Canal+, lui-même filiale du groupe Vivendi.
     },
     "url": "www.mycanal.fr",
     "version": "1.0",
